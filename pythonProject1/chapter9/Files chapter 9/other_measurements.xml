@@ -1,0 +1,32 @@
+<measurements>
+    <measurement executor="JP">
+        <number>15</number>
+        <month>September</month>
+        <location>Block B</location>
+    </measurement>
+    <measurement executor="JP">
+        <number>33</number>
+        <month>September</month>
+        <location>Block P</location>
+    </measurement>
+    <measurement executor="AM">
+        <number>5</number>
+        <month>October</month>
+        <location>Block A</location>
+    </measurement>
+    <measurement executor="RZ">
+        <number>69</number>
+        <month>November</month>
+        <location>Block G</location>
+    </measurement>
+    <measurement executor="JP">
+        <number>50</number>
+        <month>December</month>
+        <location>Block A</location>
+    </measurement>
+    <measurement executor="RZ">
+        <number>77</number>
+        <month>December</month>
+        <location>Block F</location>
+    </measurement>
+</measurements>

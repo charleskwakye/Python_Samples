@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<customers>
+    <customer type="private">
+        <name>Bart Bols</name>
+        <telephone>014/230998</telephone>
+        <orders>
+             <order>
+                 <sandwich>chicken</sandwich>
+                 <quantity>3</quantity>
+             </order>
+             <order>
+                 <sandwich>mexicano</sandwich>
+                 <quantity>1</quantity>
+             </order>
+        </orders>
+    </customer>
+    <customer type="private">
+        <name>An Andriesen</name>
+        <name>Mieke Andriesen</name>
+        <telephone>016/238974</telephone>
+        <orders/>
+    </customer>
+    <customer type="private">
+         <name>Carl Cerstiaens</name>
+         <telephone>014/452945</telephone>
+         <orders>
+             <order>
+                  <sandwich>ham cheese</sandwich>
+                  <quantity>2</quantity>
+             </order>
+         </orders>
+    </customer>
+    <customer type="company">
+         <name>De Waai</name>
+         <orders>
+             <order>
+                  <sandwich>cheese</sandwich>
+                  <quantity>30</quantity>
+             </order>
+             <order>
+                  <sandwich>ham</sandwich>
+                  <quantity>20</quantity>
+             </order>
+         </orders>
+    </customer>
+</customers>

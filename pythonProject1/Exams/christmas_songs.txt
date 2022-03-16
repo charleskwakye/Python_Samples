@@ -1,0 +1,64 @@
+Title;Performer;Year;Ranking
+White Christmas;Bing Crosby;1942;12
+Have Yourself a Merry Little Christmas;Judy Garland;1944;6
+The Christmas Song;Nat King Cole;1961;5
+Christmas Time Is Here;Vince Guaraldi;1965;24
+Happy Xmas (War Is Over);John Lennon;1971;3
+The Little Drummer Boy;David Bowie & Bing Crosby;1977;11
+Grandma Got Run Over By a Reindeer;Elmo and Patsy;1983;30
+Do They Know It’s Christmas;Band Aid;1984;2
+Last Christmas;Wham;1984;1
+Christmas In Hollis;Run DMC;1987;23
+Christmas (Baby Please Come Home);U2;1987;9
+Frosty the Snowman;Leon Redbone and Dr. John;1987;27
+Gabriel’s Message;Sting;1987;31
+I Saw Mommy Kissing Santa Claus;John Mellencamp;1987;46
+Merry Christmas Darling;The Carpenters;1987;45
+Rockin’ Around the Christmas Tree;Mel & Kim;1987;36
+Fairytale of New York;The Pogues and Kirsty MacColl;1988;16
+Please Come Home for Christmas;Aaron Neville;1993;46
+All I Want for Christmas is You;Mariah Carey;1994;4
+Hark! The Herald Angels Sing;Mariah Carey;1994;43
+The Chanukah Song;Adam Sandler;1994;19
+The Holly and the Ivy;Natalie Cole and Jose Carreras;1995;40
+God Rest Ye Merry Gentlemen;Barenaked Ladies;1997;37
+Joy to the World;Michael Bolton;1997;20
+Christmas Song;Dave Matthews Band;1998;38
+Christmas Wrapping;Spice Girls;1998;24
+O Holy Night;Celine Dion;1998;7
+Rudolph, the Red-Nosed Reindeer;NSYNC;1998;12
+Merry Christmas, Baby;Christina Aguilera;2000;47
+What Child Is This;Charlotte Church;2000;48
+Christmas Is All Around;Billy Mack;2003;49
+Santa Baby;Kylie Minogue;2003;42
+Santa Clause is Coming to Town;Bruce Springsteen;2003;8
+Winter Wonderland;Jason Mraz;2003;14
+Baby, It’s Cold Outside;Nick Lachey and Jessica Simpson;2004;50
+Carol of the Bells;Destiny’s Child;2004;32
+We Three Kings;Billy Corgan, Emilie Autumn & Dennis DeYoung;2004;39
+Jingle Bells;Diana Krall;2005;17
+Sleigh Ride;JoJo;2005;26
+It’s the Most Wonderful Time of the Year;Jonas Brothers;2006;35
+Jingle Bell Rock;Billy Idol;2006;10
+River;Sarah McLachlan;2006;21
+Silver Bells;Clay Aiken and Megan Mulally;2006;41
+The 12 Days of Christmas;Taking Back Sunday;2006;15
+Angels We Have Heard on High;Relient K;2007;28
+Do You Hear What I Hear?;Carry Underwood;2007;33
+It Came Upon a Midnight Clear;Josh Groban;2007;22
+Silent Night;NLT;2007;18
+This Christmas;Chris Brown;2007;44
+Blue Christmas;Elvis Presley and Martina McBride;2009;29
+Oh Santa!;Mariah Carey;2010;34
+
+
+
+
+
+
+
+
+
+
+
+ 

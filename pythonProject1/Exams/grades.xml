@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<results>
+	<courses>
+		<course>
+			<name>Application development in Python</name>
+				<academicyears>				
+					<year aj = '2019-2020'>
+						<scores>
+							<score>
+								<name>Jef Verboven</name>
+								<result>18</result>
+							</score>
+							<score>
+								<name>Piet Verboven</name>
+								<result>13</result>
+							</score>
+							<score>
+								<name>Lars Verboven</name>
+								<result>15</result>
+							</score>
+							<score>
+								<name>Jef Van Braband</name>
+								<result>10</result>
+							</score>
+							<score>
+								<name>Koen Verboven</name>
+								<result>12</result>
+							</score>
+						</scores>
+					</year>
+					<year aj = '2020-2021'>
+						<scores>
+							<score>
+								<name>Jan Belmans</name>
+								<result>11</result>
+							</score>
+							<score>
+								<name>Mario Boeckx</name>
+								<result>13</result>
+							</score>
+							<score>
+								<name>Wouter Douwen</name>
+								<result>12</result>
+							</score>
+							<score>
+								<name>Siel Vermeulen</name>
+								<result>12</result>
+							</score>
+						</scores>
+					</year>
+					<year aj = '2021-2022'>
+						<scores>
+							<score>
+								<name>Bert Engelen</name>
+								<result>18</result>
+							</score>
+							<score>
+								<name>Freddie Raymaekers</name>
+								<result>13</result>
+							</score>
+							<score>
+								<name>Wim Geukens</name>
+								<result>15</result>
+							</score>
+							<score>
+								<name>Tilly Donckers</name>
+								<result>12</result>
+							</score>
+						</scores>
+					</year>
+				</academicyears>
+		</course>
+		<course>
+			<name>Data analysis with SQL</name>
+			<academicyears>	
+					<year aj = '2018-2019'>
+						<scores>
+							<score>
+								<name>Jef Verboven</name>
+								<result>11</result>
+							</score>
+							<score>
+								<name>Piet Verboven</name>
+								<result>11</result>
+							</score>
+							<score>
+								<name>Lars Verboven</name>
+								<result>13</result>
+							</score>
+							<score>
+								<name>Jef Van Braband</name>
+								<result>8</result>
+							</score>
+							<score>
+								<name>Koen Verboven</name>
+								<result>10</result>
+							</score>
+						</scores>
+					</year>			
+					<year aj = '2019-2020'>
+						<scores>
+							<score>
+								<name>Jef Verboven</name>
+								<result>16</result>
+							</score>
+							<score>
+								<name>Piet Verboven</name>
+								<result>11</result>
+							</score>
+							<score>
+								<name>Lars Verboven</name>
+								<result>13</result>
+							</score>
+							<score>
+								<name>Jef Van Braband</name>
+								<result>8</result>
+							</score>
+							<score>
+								<name>Koen Verboven</name>
+								<result>10</result>
+							</score>
+						</scores>
+					</year>
+					<year aj = '2020-2021'>
+						<scores>
+							<score>
+								<name>Jan Belmans</name>
+								<result>9</result>
+							</score>
+							<score>
+								<name>Mario Boeckx</name>
+								<result>11</result>
+							</score>
+							<score>
+								<name>Wouter Douwen</name>
+								<result>10</result>
+							</score>
+							<score>
+								<name>Siel Vermeulen</name>
+								<result>10</result>
+							</score>
+						</scores>
+					</year>
+					<year aj = '2021-2022'>
+						<scores>
+							<score>
+								<name>Bert Engelen</name>
+								<result>16</result>
+							</score>
+							<score>
+								<name>Freddie Raymaekers</name>
+								<result>11</result>
+							</score>
+							<score>
+								<name>Wim Geukens</name>
+								<result>13</result>
+							</score>
+							<score>
+								<name>Tilly Donckers</name>
+								<result>10</result>
+							</score>
+						</scores>
+					</year>
+				</academicyears>
+		</course>
+	</courses>
+</results>

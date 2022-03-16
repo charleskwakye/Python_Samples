@@ -1,0 +1,9 @@
+City#Population
+Antwerpen#529417
+Geel#40781
+Herentals#28194
+Hoogstraten#21560
+Lier#36923
+Mechelen#86911
+Mortsel#26170
+Turnhout#45874
