@@ -1,3 +1,5 @@
-x = 'aaa'
-if x[0] == x[1] == x[2]:
-    print('right')
+import random
+x = "INSERT " + "INTO " + "epl.Staff " + "VALUES" + ()
+
+Y = "Lindon Sheppard","Morgan Close","Rowen Henson","Anselm Jernigan","Skylar Coke","Scott Lockwood","Roswell Lovell","Linford Ainsworth","Terry Evelyn","Bobby Purcell",
+print(x)
